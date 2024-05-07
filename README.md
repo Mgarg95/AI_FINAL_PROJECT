@@ -1,4 +1,4 @@
-# CIS667_Final_Project_Chess_Manha_Garg
+# Chess_Board_Implementation
 
 The pseudocode for implementing minimax has been referred from GeeksforGeeks. The link is - https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
 
